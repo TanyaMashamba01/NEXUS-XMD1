@@ -7,8 +7,8 @@ const commonContextInfo = (sender) => ({
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363288304618280@newsletter',
-        newsletterName: 'NEXUS-BOTS SUPPORT',
+        newsletterJid: '120363347365643318@newsletter',
+        newsletterName: 'JMz-BOTS SUPPORT',
         serverMessageId: 143
     }
 });
